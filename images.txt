@@ -1,1 +1,4 @@
-rustdesk/rustdesk-server-s6:latest
+mysql:8.0.39
+gitea/gitea:latest
+jc21/nginx-proxy-manager:latest
+nginx:latest
