@@ -2,3 +2,4 @@ mysql:8.0.39
 gitea/gitea:latest
 jc21/nginx-proxy-manager:latest
 nginx:latest
+portainer/portainer-ce:latest
