@@ -1,1 +1,11 @@
-grafana/grafana:10.2.0
+portainer:latest
+laradock/workspace:latest-7.4
+laradock/workspace:latest-8.1
+laradock/workspace:latest-8.2
+laradock/php-fpm:latest-7.4
+laradock/php-fpm:latest-8.1
+laradock/php-fpm:latest-8.2
+nginx:alpine
+mysql:8.0
+redis:latest
+postgres:alpine
